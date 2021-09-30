@@ -7,7 +7,7 @@ This repository is an official MATLAB implementation of the paper "[Fast and Rob
 ## License
 
 This software is released under the NEC Corporation License.
-See [LICENSE](https://github.com/g9nkn/gnc_homography/LICENSE) before using the code. If you use this code, please cite the paper.
+See [LICENSE](https://github.com/g9nkn/gnc_homography/blob/main/LICENSE) before using the code. If you use this code, please cite the paper.
 
 ```bibtex
 @inproceedings{nakano2019fast,
